@@ -1,0 +1,29 @@
+h1{
+    font-family: '911 Porscha', sans-serif;
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+#contenedorImagen{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 3px solid grey;
+}
+
+img{
+    width: 50%;
+    height: auto;
+
+}
+#indices{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    border: 9px solid black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
