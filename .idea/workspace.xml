@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27176f80-a064-4f20-ac1c-83594ea1dae8" name="Changes" comment="v1.3">
-      <change afterPath="$PROJECT_DIR$/0214_roma_gold_u-crane_AKOS8758_edit_V02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2022-porsche-cayman-gt4-rs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estiloCuestionario.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gracias.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gracias.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/historia.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/historia.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelos.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modelos.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porsche-model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/porsche.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copilot/chatSessions/00000000000.xd" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cuestionario.html" beforeDir="false" afterPath="$PROJECT_DIR$/cuestionario.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2dMlubGnAyUQJvT9eaSJMxpkIW9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,6 +40,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/luisg/OneDrive/Escritorio/Ironhack Web/Proyecto1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -75,7 +63,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709826051672</updated>
-      <workItem from="1709826052746" duration="3446000" />
+      <workItem from="1709826052746" duration="3901000" />
+      <workItem from="1709899023232" duration="146000" />
     </task>
     <task id="LOCAL-00001" summary="v1.1">
       <option name="closed" value="true" />
@@ -85,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709827240124</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="v1.3">
+      <option name="closed" value="true" />
+      <created>1709829736633</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1709829736633</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
